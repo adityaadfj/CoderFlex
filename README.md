@@ -91,6 +91,6 @@ This platform is not just functional but also enjoyable to use. It blends high p
    The compiler runs at `https://localhost:8000`.
 
 ## Contributors
-- **Kshitij Gupta**
-- **Akshitha Mittapally**
-- **Harsh Dalwadi**
+- **Aditya Kumar Maharana**
+- **Sangram Keshari Ghose**
+
